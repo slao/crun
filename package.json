@@ -3,23 +3,23 @@
   "description": "Generates JavaScript functions mapped to system commands",
   "main": "./lib/crun.js",
   "author": {
-		"name": "Sean Lao"
-	},
-  "version": "0.0.2",
+    "name": "Sean Lao"
+  },
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/slao/crun.git"
   },
-	"bugs": {
-		"url": "https://github.com/slao/crun/issues"
-	},
+  "bugs": {
+    "url": "https://github.com/slao/crun/issues"
+  },
   "scripts": {
     "test": "mocha"
   },
-	"devDependencies": {
-		"expect.js": "*",
-		"mocha": "*"
-	},
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*"
+  },
   "keywords": [
     "command-line",
     "runner",
