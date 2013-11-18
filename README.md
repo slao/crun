@@ -4,6 +4,10 @@ Crun is a Node.js module which provides methods to map system commands to JavaSc
 
 ChildProcess object is returned when calling commands without providing a callback function. If a callback function is provided, there is no return value and the results are processed through the callback.
 
+## Install
+
+Install the module with: `npm install crun`
+
 ## Example
 
 ```javascript
