@@ -1,12 +1,18 @@
 {
   "name": "crun",
-  "version": "0.0.1",
   "description": "Generates JavaScript functions mapped to system commands",
   "main": "./lib/crun.js",
+  "author": {
+		"name": "Sean Lao"
+	},
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/slao/crun.git"
   },
+	"bugs": {
+		"url": "https://github.com/slao/crun/issues"
+	},
   "scripts": {
     "test": "mocha"
   },
@@ -19,6 +25,5 @@
     "runner",
     "cli"
   ],
-  "author": "Sean Lao",
   "license": "BSD"
 }

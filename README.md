@@ -39,4 +39,4 @@ tail.stderr.on('data', function (data) {
 tail.on('close', function (code) {
   console.log('child process exited with code ' + code);
 });
-
+```
