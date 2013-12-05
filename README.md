@@ -66,4 +66,6 @@ The callback function consists of two parameters: the error object and the resul
 - `command`: the command with the #{} placeholders replaced with passed in values
 - `stdout`: contents of the standard output stream of the command
 - `stderr`: contents of the standard error stream of the command
+- `stdoutt`: trimmed stdout - stdout without leading or trailing whitespace
+- `stderrt`: trimmed stderr - stderr without leading or trailing whitespace
 
