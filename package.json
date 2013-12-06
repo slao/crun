@@ -5,7 +5,7 @@
   "author": {
     "name": "Sean Lao"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/slao/crun.git"
@@ -25,10 +25,10 @@
     "runner",
     "cli"
   ],
-	"licenses" : [
-		{
-			"type" : "BSD",
-			"url" : "https://raw.github.com/slao/crun/master/LICENSE"
-		}
-	]
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://raw.github.com/slao/crun/master/LICENSE"
+    }
+  ]
 }
