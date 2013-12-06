@@ -25,5 +25,10 @@
     "runner",
     "cli"
   ],
-  "license": "BSD"
+	"licenses" : [
+		{
+			"type" : "BSD",
+			"url" : "https://raw.github.com/slao/crun/master/LICENSE"
+		}
+	]
 }
