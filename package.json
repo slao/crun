@@ -27,7 +27,7 @@
   ],
   "licenses": [
     {
-      "type": "BSD",
+      "type": "MIT",
       "url": "https://raw.github.com/slao/crun/master/LICENSE"
     }
   ]
